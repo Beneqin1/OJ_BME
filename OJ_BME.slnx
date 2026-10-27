@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OJ_BME.vcxproj" Id="db94be48-8ca3-45e1-8e87-e4bbb9a882f9" />
+</Solution>
